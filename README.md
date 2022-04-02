@@ -2,3 +2,13 @@
 
 # Heloo Test1
 # 𝐆𝐞𝐧𝐬𝐡𝐢𝐧 𝐈𝐦𝐩𝐚𝐜𝐭
+## Hatdog :sad:
+Pleaseeee ==very important words==.
+
+two joints
+: sign for marijuana (weed)
+
+~~skrrrrrrrt~~
+
+I just love **meat**
+I hate **veggies**
