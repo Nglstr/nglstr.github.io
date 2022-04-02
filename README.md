@@ -1,12 +1,4 @@
-.bg {![image](https://user-images.githubusercontent.com/102704355/161384662-9d289f9f-ede3-4348-a53e-2c08a2847279.png)
-  display: block;
-	height: 100%;
-	left: 0;
-	overflow: hidden;
-	position: fixed;
-	top: 0;
-	width: 100%;
-	z-index: 0;
-}
+![image](https://user-images.githubusercontent.com/102704355/161384782-4dec4ee7-31f9-4e15-9437-51898c88386b.png)
 
 # Heloo Test1
+# 𝐆𝐞𝐧𝐬𝐡𝐢𝐧 𝐈𝐦𝐩𝐚𝐜𝐭
