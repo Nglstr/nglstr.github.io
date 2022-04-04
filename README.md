@@ -1,7 +1,7 @@
-# 𝐆𝐞𝐧𝐬𝐡𝐢𝐧 𝐈𝐦𝐩𝐚𝐜𝐭
+#  Genshin Impact
 
 ![image](https://user-images.githubusercontent.com/102704355/161384782-4dec4ee7-31f9-4e15-9437-51898c88386b.png)
 
-## 𝐆𝐞𝐧𝐬𝐡𝐢𝐧 𝐈𝐦𝐩𝐚𝐜𝐭 𝐢𝐬 𝐚𝐧 𝐨𝐧𝐥𝐢𝐧𝐞 𝐚𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞 𝐰𝐨𝐫𝐥𝐝 𝐰𝐡𝐞𝐫𝐞 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐞𝐱𝐩𝐥𝐨𝐫𝐞 𝐟𝐫𝐞𝐞𝐥𝐲, 𝐚𝐜𝐜𝐨𝐦𝐩𝐥𝐢𝐬𝐡 𝐪𝐮𝐞𝐬𝐭𝐬, 𝐚𝐧𝐝 𝐦𝐮𝐜𝐡 𝐦𝐨𝐫𝐞. 𝐈𝐭 𝐢𝐬 𝐚𝐧 𝐨𝐩𝐞𝐧-𝐰𝐨𝐫𝐥𝐝 𝐑𝐏𝐆 𝐦𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐬.
+## Genshin impact is an online open - world where yoy can explore freely, accomplish quests and much more. 
 
-background-color: #0000
+
