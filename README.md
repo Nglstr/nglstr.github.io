@@ -16,6 +16,8 @@
 | ![image](https://user-images.githubusercontent.com/102704355/161662301-ae259bf9-d4dd-4f53-b4bf-321d69940f17.png)  Chongyun | | Icy popsicle |
 | ![image](https://user-images.githubusercontent.com/102704355/161662316-4af6b97a-ca2f-4ba1-9491-e817fb1a1e72.png)  Diluc | | KFC |
 | Diona | | Cat |
+| Noelle | | Best maid |
+| Razor | | Best boy |
 | Eula | | One sneeze can make you simp |
 | Fishcl | | Electro |
 | Ganyu | | Cocogoat |
