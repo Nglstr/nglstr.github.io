@@ -31,7 +31,29 @@
 | ![image](https://user-images.githubusercontent.com/102704355/161665399-20d0c6e4-146b-421a-87cf-c0bfc2237b23.png)  Kujou Sara | | Electro mommy simp |
 | ![image](https://user-images.githubusercontent.com/102704355/161665772-b6de8241-f4d3-4f2d-8bd1-0e90a72042d1.png)  Lisa | | Gotta wear earphones |
 | ![image](https://user-images.githubusercontent.com/102704355/161665795-9464fa97-9fc1-4346-91b6-fc1b67482eeb.png)  Mona | | No mora |
-
+| ![image](https://user-images.githubusercontent.com/102704355/161667965-408c9db2-c7c9-4881-b77e-64f94166d672.png)  Ningguang | | Geo mommy |
+| ![image](https://user-images.githubusercontent.com/102704355/161667981-71013a9a-1d98-45c9-83e9-244410c530a1.png)  Noelle | | Geo maid |
+| ![image](https://user-images.githubusercontent.com/102704355/161668043-28c67cc5-ae5f-4fab-80bc-aeed7f45e77b.png)  Qiqi | | Cocogoat |
+| ![image](https://user-images.githubusercontent.com/102704355/161668058-cf742bd0-dfce-4809-b58a-3826362c86e5.png)  Raiden Shogun | | Can't cook |
+| ![image](https://user-images.githubusercontent.com/102704355/161668154-2f39c801-294b-47a7-94cc-1e710a03a6d1.png)  Razor |
+| ![image](https://user-images.githubusercontent.com/102704355/161668174-8bf6fd4b-db1b-4fc4-91df-2c1d9b0b1d5a.png)  Rosaria |
+| ![image](https://user-images.githubusercontent.com/102704355/161668528-f8330560-d52d-4bce-a7bc-e5ef96ba207f.png)  Sangonomiya kokomi |
+| ![image](https://user-images.githubusercontent.com/102704355/161668543-922dd09f-b433-4071-a89d-e952c9001e32.png)  Sayu |
+| ![image](https://user-images.githubusercontent.com/102704355/161668560-f2d54fec-e04e-4126-985f-8948afe8b0e4.png)  Shenhe | 
+| ![image](https://user-images.githubusercontent.com/102704355/161668581-f6704bfa-80ea-4d58-b489-ffe1414883f4.png)  Sucrose |
+| ![image](https://user-images.githubusercontent.com/102704355/161668597-a706123e-afc8-4f6b-b6bd-2f31058c2186.png)  Tartaglia |
+| ![image](https://user-images.githubusercontent.com/102704355/161668609-3705188b-9a3c-4569-ae7f-7bee325d5311.png)  Thoma | 
+| ![image](https://user-images.githubusercontent.com/102704355/161668622-72534374-17c6-431a-a8ad-325990d0b5cb.png)  Traveler | 
+| ![image](https://user-images.githubusercontent.com/102704355/161668637-f1e292c7-7b07-44ac-b723-890bd1591a03.png)  Venti |
+| ![image](https://user-images.githubusercontent.com/102704355/161668650-e6b38684-eaa6-4c0b-8232-d09739d7091d.png)  Xiangling |
+| ![image](https://user-images.githubusercontent.com/102704355/161668742-3654e562-06ac-476f-a3f7-42aebdbc2a3b.png)  Xiao |
+| ![image](https://user-images.githubusercontent.com/102704355/161668758-71f18963-26ab-49e3-9cb9-f73335dcb2aa.png)  Xingqiu |
+| ![image](https://user-images.githubusercontent.com/102704355/161668778-57aa0088-a5cf-4b7f-b872-8db65fbbd78a.png)  Xinyan |
+| ![image](https://user-images.githubusercontent.com/102704355/161668791-cd08e1a9-4ec9-4d64-8e5e-73fbed086406.png)  Yae Miko |
+| ![image](https://user-images.githubusercontent.com/102704355/161668810-5690c25e-3c75-45f5-b65a-87541e7687d5.png)  Yanfei |
+| ![image](https://user-images.githubusercontent.com/102704355/161668821-2c196d34-5e87-4620-9f7e-1805be528ac6.png)  Yoimiya |
+| ![image](https://user-images.githubusercontent.com/102704355/161668844-7919e7bf-d9cf-4b23-9df3-be8e7e030984.png)  Yun jin |
+| ![image](https://user-images.githubusercontent.com/102704355/161668854-816a04b3-5820-45b8-b4c0-0722d344a6da.png)  Zhongli | | Morax |
 
 [download] ()
 [Official Site] ()
