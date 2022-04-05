@@ -6,10 +6,9 @@
 
 | Character | | Description |
 | --------- | | ----------- |
-| ![image](https://user-images.githubusercontent.com/102704355/161657552-d4e62502-5c84-4be4-ab24-a8cee64a6273.png)
-Albedo | | hatdog |
-| Aloy | | Cryo |
-| Amber | | Pyro Archer |
+| ![image](https://user-images.githubusercontent.com/102704355/161661836-afc691c4-9ba5-44d4-9b58-b13a6da9aff4.png) Albedo | | hatdog |
+| ![image](https://user-images.githubusercontent.com/102704355/161661861-e18153b0-ada6-4e44-8457-f2fad1efa8f9.png) Aloy | | Cryo |
+| ![image](https://user-images.githubusercontent.com/102704355/161661880-fedd17ca-6a90-4954-94f0-573697f1f1a1.png) Amber | | Pyro Archer |
 | Arataki Itto | | Oni coming through! |
 | Barbara | | Barbatos Simp |
 | Beidou | | Electro Mommy |
