@@ -4,4 +4,19 @@
 
 ## Genshin impact is an online open - world where yoy can explore freely, accomplish quests and much more. 
 
-
+| Character | | Description |
+| --------- | | ----------- |
+| Albedo | | hatdog |
+| Aloy | | Cryo |
+| Amber | | Pyro Archer |
+| Arataki Itto | | Oni coming through! |
+| Barbara | | Barbatos Simp |
+| Beidou | | Electro Mommy |
+| Benett | | Best boy |
+| Chongyun | | Icy popsicle |
+| Diluc | | KFC |
+| Diona | | Cat |
+| Eula | | One sneeze can make you simp |
+| Fishcl | | Electro |
+| Ganyu | | Cocogoat |
+| Gorou | | Geo dog |
