@@ -55,7 +55,4 @@
 | ![image](https://user-images.githubusercontent.com/102704355/161668844-7919e7bf-d9cf-4b23-9df3-be8e7e030984.png)  Yun jin |
 | ![image](https://user-images.githubusercontent.com/102704355/161668854-816a04b3-5820-45b8-b4c0-0722d344a6da.png)  Zhongli | | Morax |
 
-[download] ()
-[Official Site] ()
-
-> Hatdog me love
+> Note: All information written are from different sites.
