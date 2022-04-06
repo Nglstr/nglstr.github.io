@@ -6,7 +6,7 @@
 
 | Character | | Description |
 | --------- | | ----------- |
-| ![image](https://user-images.githubusercontent.com/102704355/161661836-afc691c4-9ba5-44d4-9b58-b13a6da9aff4.png)  Albedo | | Albedo, also known as the "Kreideprinz" is a playable Geo character in Genshin Impact. A synthetic human made by the alchemist Rhinedottir, the mysterious Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius. |
+| ![image](https://user-images.githubusercontent.com/102704355/161661836-afc691c4-9ba5-44d4-9b58-b13a6da9aff4.png)  Albedo | | Albedo, also known as the "Kreideprinz" is a playable Geo character in Genshin Impact. |
 | ![image](https://user-images.githubusercontent.com/102704355/161661861-e18153b0-ada6-4e44-8457-f2fad1efa8f9.png)  Aloy | | Cryo |
 | ![image](https://user-images.githubusercontent.com/102704355/161661880-fedd17ca-6a90-4954-94f0-573697f1f1a1.png)  Amber | | Pyro Archer |
 | ![image](https://user-images.githubusercontent.com/102704355/161662156-a875e502-53a8-4b6e-abee-e12b25d9d800.png)  Arataki Itto | | Oni coming through! |
