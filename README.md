@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/102704355/161384782-4dec4ee7-31f9-4e15-9437-51898c88386b.png)
 
-> Genshin impact is an online open - world where yoy can explore freely, accomplish quests and much more. 
+> Genshin impact is an online open - world where you can explore freely, accomplish quests and much more. 
 
 | Character | | Description |
 | --------- | | ----------- |
@@ -12,19 +12,20 @@
 | ![image](https://user-images.githubusercontent.com/102704355/161662156-a875e502-53a8-4b6e-abee-e12b25d9d800.png)  Arataki Itto| | Arataki Itto is a playable Geo character in Genshin Impact. A descendant of the crimson oni, Itto is also the leader and founder of the Arataki Gang. |
 | ![image](https://user-images.githubusercontent.com/102704355/161662196-308888af-f42c-47c8-8151-996d02082a8f.png)  Barbara | | Barbara is a playable Hydro character in Genshin Impact. She is the deaconess of the Church of Favonius and a self-proclaimed "idol" after learning about them from the intrepid adventurer Alice. |
 | ![image](https://user-images.githubusercontent.com/102704355/161662260-794d043b-439b-4b69-ae45-56806007b6b3.png)  Beidou | | Beidou is a playable Electro character in Genshin Impact. She is the captain of The Crux, a renowned crew in Liyue. |
-| ![image](https://user-images.githubusercontent.com/102704355/161662283-fec4eb07-64c3-4b5e-a542-99cb66964e7a.png)  Benett | | Best boy |
-| ![image](https://user-images.githubusercontent.com/102704355/161662301-ae259bf9-d4dd-4f53-b4bf-321d69940f17.png)  Chongyun | | Icy popsicle |
-| ![image](https://user-images.githubusercontent.com/102704355/161662316-4af6b97a-ca2f-4ba1-9491-e817fb1a1e72.png)  Diluc | | KFC |
-| ![image](https://user-images.githubusercontent.com/102704355/161664834-d7e8d39d-3790-45da-b567-49f3515600f7.png)  Diona | | Cat |
-| ![image](https://user-images.githubusercontent.com/102704355/161664856-14adb87c-e25e-432e-bb01-75b8fbdd9d97.png)  Eula | | One sneeze can make you simp |
-| ![image](https://user-images.githubusercontent.com/102704355/161664872-91e3acb4-f3ff-4f44-9930-fbd3de810c21.png)  Fishcl | | Electro |
-| ![image](https://user-images.githubusercontent.com/102704355/161664901-c3a855c2-6bc5-4d6b-945a-1acf6e432862.png)  Ganyu | | Cocogoat |
-| ![image](https://user-images.githubusercontent.com/102704355/161664918-acaa96c6-e05f-45e5-b442-72695b139184.png)  Gorou | | Geo dog |
-| ![image](https://user-images.githubusercontent.com/102704355/161664948-c402e730-daf3-44cf-9a4e-089dbfce7a9d.png)  Hu tao | | Pyro |
-| ![image](https://user-images.githubusercontent.com/102704355/161665040-d1aeb5f9-53ee-4af4-ae8e-53624c63a615.png)  Jean | | Anemo |
-| ![image](https://user-images.githubusercontent.com/102704355/161665215-74e3bddb-6917-4501-a1e3-c959153dbe55.png)  Kaedehara Kazuha | | simp |
-| ![image](https://user-images.githubusercontent.com/102704355/161665305-72639ebb-8735-4199-8536-6911f29c2401.png)  Kaeya | | Cryo simp |
-| ![image](https://user-images.githubusercontent.com/102704355/161665330-18e42e65-1b25-49b7-9827-8fd6276aebb3.png)  Kamisato Ayaka | | socks |
+| ![image](https://user-images.githubusercontent.com/102704355/161662283-fec4eb07-64c3-4b5e-a542-99cb66964e7a.png)  Benett | | Bennett is a playable Pyro character in Genshin Impact. An orphan discovered by an elderly adventurer as a baby, Bennett was raised in Mondstadt's Adventurers' Guild.  |
+| ![image](https://user-images.githubusercontent.com/102704355/161662301-ae259bf9-d4dd-4f53-b4bf-321d69940f17.png)  Chongyun | | Chongyun is a playable Cryo character in Genshin Impact. An exorcist from Liyue, Chongyun was born with excessive positive energy, which has proven to be both a help and a hindrance. |
+| ![image](https://user-images.githubusercontent.com/102704355/161662316-4af6b97a-ca2f-4ba1-9491-e817fb1a1e72.png)  Diluc | | Diluc Ragnvindr is a playable Pyro character in Genshin Impact. Born into the affluent Ragnvindr Clan, Diluc is the current owner of the Dawn Winery and a nobleman of high esteem in Mondstadt society. |
+| ![image](https://user-images.githubusercontent.com/102704355/161664834-d7e8d39d-3790-45da-b567-49f3515600f7.png)  Diona | | Diona is a playable Cryo character in Genshin Impact. Despite being a bartender at the Cat's Tail, she actually despises alcohol and wants nothing more than to ruin Mondstadt's wine industry. |
+| ![image](https://user-images.githubusercontent.com/102704355/161664856-14adb87c-e25e-432e-bb01-75b8fbdd9d97.png)  Eula | | Eula Lawrence is a playable Cryo character in Genshin Impact. A descendant of the infamous and tyrannical Lawrence Clan, Eula is the captain of the Reconnaissance Company with the Knights of Favonius. |
+| ![image](https://user-images.githubusercontent.com/102704355/161664872-91e3acb4-f3ff-4f44-9930-fbd3de810c21.png)  Fishcl | | Fischl von Luftschloss Narfidort is a playable Electro character in Genshin Impact. Fischl is an investigator for Mondstadt's Adventurers' Guild, accompanied by the night raven Oz. |
+| ![image](https://user-images.githubusercontent.com/102704355/161664901-c3a855c2-6bc5-4d6b-945a-1acf6e432862.png)  Ganyu | | Ganyu is a playable Cryo character in Genshin Impact. She is a half-qilin Adeptus under contract with the Geo Archon Morax and serves as the general secretary of the Liyue Qixing. |
+| ![image](https://user-images.githubusercontent.com/102704355/161664918-acaa96c6-e05f-45e5-b442-72695b139184.png)  Gorou | | Gorou is a playable Geo character in Genshin Impact. He is the courageous and reliable general of the Watatsumi Army, a leader whose men can always place their trust in. |
+| ![image](https://user-images.githubusercontent.com/102704355/161664948-c402e730-daf3-44cf-9a4e-089dbfce7a9d.png)  Hu tao | | Hu Tao is a playable Pyro character in Genshin Impact. She is the 77th Director of the Wangsheng Funeral Parlor. |
+| ![image](https://user-images.githubusercontent.com/102704355/161665040-d1aeb5f9-53ee-4af4-ae8e-53624c63a615.png)  Jean | | Jean Gunnhildr is a playable Anemo character in Genshin Impact. Jean is the Acting Grand Master of the Knights of Favonius. She is always busy handling unrest across Mondstadt and tirelessly working to maintain the City of Freedom. |
+| ![image](https://user-images.githubusercontent.com/102704355/161665215-74e3bddb-6917-4501-a1e3-c959153dbe55.png)  Kaedehara Kazuha | | Kaedehara Kazuha is a playable Anemo character in Genshin Impact. A wandering samurai of the once-famed Kaedehara Clan, Kazuha is a temporary crewmember of The Crux. |
+| ![image](https://user-images.githubusercontent.com/102704355/161665305-72639ebb-8735-4199-8536-6911f29c2401.png)  Kaeya | | Kaeya is the Cavalry Captain of the Knights of Favonius. He is held in high regard by the people of Mondstadt even with all his eccentricities and secrets. |
+| ![image](https://user-images.githubusercontent.com/102704355/161665330-18e42e65-1b25-49b7-9827-8fd6276aebb3.png)  Kamisato Ayaka | | Kamisato Ayaka is a playable Cryo character in Genshin Impact.
+She is the oldest daughter of the Kamisato Clan and sister of Kamisato Ayato. |
 | ![image](https://user-images.githubusercontent.com/102704355/161665347-3b185f13-3aba-4d9a-9658-d11ba66063b8.png)  Kamisato Ayato | | Hydro daddy |
 | ![image](https://user-images.githubusercontent.com/102704355/161665364-8cb3c641-7801-401b-b7ea-3dac391c0221.png)  Keqing | | Electro |
 | ![image](https://user-images.githubusercontent.com/102704355/161665383-ba69c71d-f033-478a-bbd5-2ce9d5a25bab.png)  Klee | | Terrorist |
