@@ -59,3 +59,5 @@ Table of contents
 | ![image](https://user-images.githubusercontent.com/102704355/161668854-816a04b3-5820-45b8-b4c0-0722d344a6da.png)  Zhongli | | Zhongli is a playable Geo character in Genshin Impact. He is a consultant of the Wangsheng Funeral Parlor. He is later revealed to be the current vessel of the Geo Archon, Morax, who has decided to experience the world from the perspective of a mortal. |
 
 > Note: All information written are from different sites.
+
+remote_theme: Strata/https://html5up.net/
