@@ -4,6 +4,9 @@
 
 > Genshin impact is an online open - world where you can explore freely, accomplish quests and much more. 
 
+Table of contents
+
+
 | Character | | Description |
 | --------- | | ----------- |
 | ![image](https://user-images.githubusercontent.com/102704355/161661836-afc691c4-9ba5-44d4-9b58-b13a6da9aff4.png)  Albedo | | Albedo, also known as the "Kreideprinz" is a playable Geo character in Genshin Impact. |
@@ -38,7 +41,7 @@
 | ![image](https://user-images.githubusercontent.com/102704355/161668154-2f39c801-294b-47a7-94cc-1e710a03a6d1.png)  Razor | | Razor is a playable Electro character in Genshin Impact. Abandoned as an infant, Razor was taken in by the Wolf of the North, Andrius, and raised by his wolf pack in Wolvendom. |
 | ![image](https://user-images.githubusercontent.com/102704355/161668174-8bf6fd4b-db1b-4fc4-91df-2c1d9b0b1d5a.png)  Rosaria | | Rosaria is a playable Cryo character in Genshin Impact. She is a member of the Church of Favonius in Mondstadt. |
 | ![image](https://user-images.githubusercontent.com/102704355/161668528-f8330560-d52d-4bce-a7bc-e5ef96ba207f.png)  Sangonomiya kokomi | | Sangonomiya Kokomi is a playable Hydro character in Genshin Impact. The young Divine Priestess of Watatsumi Island and a descendant of the Sangonomiya Clan.|
-| ![image](https://user-images.githubusercontent.com/102704355/161668543-922dd09f-b433-4071-a89d-e952c9001e32.png)  Sayu | | Sayu (Japanese: 早さ柚ゆ Sayu) is a playable Anemo character in Genshin Impact. A ninja from the Shuumatsuban that is struggling with growing tall. Sayu believes that sleeping can help her growth. |
+| ![image](https://user-images.githubusercontent.com/102704355/161668543-922dd09f-b433-4071-a89d-e952c9001e32.png)  Sayu | | Sayu is a playable Anemo character in Genshin Impact. A ninja from the Shuumatsuban that is struggling with growing tall. Sayu believes that sleeping can help her growth. |
 | ![image](https://user-images.githubusercontent.com/102704355/161668560-f2d54fec-e04e-4126-985f-8948afe8b0e4.png)  Shenhe |  | Shenhe is a playable Cryo character in Genshin Impact. The daughter of an unnamed exorcist couple, Shenhe was taken in by Cloud Retainer as a disciple following a traumatic incident during her childhood.|
 | ![image](https://user-images.githubusercontent.com/102704355/161668581-f6704bfa-80ea-4d58-b489-ffe1414883f4.png)  Sucrose | | Sucrose is a playable Anemo character in Genshin Impact. An alchemist specializing in bio-alchemy, she also serves as an assistant for Albedo, the head alchemist of the Knights of Favonius.|
 | ![image](https://user-images.githubusercontent.com/102704355/161668597-a706123e-afc8-4f6b-b6bd-2f31058c2186.png)  Tartaglia | | Tartaglia, also known by his alias "Childe", is a playable Hydro character in Genshin Impact. He is the Eleventh of the Fatui Harbingers. Following danger wherever he goes, Childe is always eager for a challenge, making him extremely dangerous despite being the youngest member.|
