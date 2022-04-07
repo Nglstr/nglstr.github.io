@@ -60,4 +60,4 @@ Table of contents
 
 > Note: All information written are from different sites.
 
-remote_theme: Strata/https://html5up.net/
+
